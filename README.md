@@ -2,15 +2,15 @@
 # WordPress with Docker Compose (Local Development)
 
 ## Prerequisites
-- Docker Engine: 
-- Docker Compose: 
+- Docker Engine:`https://docs.docker.com/engine/install/`
+- Docker Compose: `https://docs.docker.com/compose/install/`
 
 ## Installation
 
 Clone the Repository
 
 ```bash
-  git clone https://github.com/<your-username>/<your-repository-name>.git
+  [git clone https://github.com/<your-username>/<your-repository-name>.git](https://github.com/sourabh1234-sys/Docker-Wordprss.git)
 ```
 
 Create the Volume (Optional)
