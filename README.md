@@ -10,7 +10,7 @@
 Clone the Repository
 
 ```bash
-  [git clone https://github.com/<your-username>/<your-repository-name>.git](https://github.com/sourabh1234-sys/Docker-Wordprss.git)
+  (https://github.com/sourabh1234-sys/Docker-Wordprss.git)
 ```
 
 Create the Volume (Optional)
